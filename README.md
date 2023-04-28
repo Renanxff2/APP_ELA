@@ -1,1 +1,1 @@
-Aplicativo criado para sanar a dificuldade de uma amiga que estava doente de esclerose lateral amiotrófica, o aplicativo possibilitava a pessoa conversar com a família, pois a mesma tinha perdido a voz. Desistir Do projeto pois desanimei.
+Aplicativo criado para sanar a dificuldade de uma amiga que estava doente de esclerose lateral amiotrófica, o aplicativo possibilitava a pessoa conversar com a família, pois a mesma tinha perdido a voz. Desistir Do projeto pois desanimei. E a mesma veio a falaecer recentimente.
